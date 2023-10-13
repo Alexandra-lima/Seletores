@@ -1,0 +1,15 @@
+.quadrado-red{
+    background: red;
+}
+.quadrado-azul{
+    background: blue;
+}
+.quadrado-green{
+    background: green;
+}
+.quadrado-yellow{
+    background: yellow;
+}
+#destaque{
+    border: 1.5px solid black;
+}
